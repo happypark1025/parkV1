@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Park Status Map</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/apexcharts/dist/apexcharts.css" />
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="page1">
+        <div id="charts">
+            <div id="park-chart"></div>
+            <div id="neighborhood-park-chart"></div>
+        </div>
+        <div id="map"></div>
+        <a href="#page2" class="scroll-arrow down-arrow">▼</a> <!-- 向下箭頭 -->
+    </div>
+    <div id="page2">
+        <a href="#page1" class="scroll-arrow up-arrow">▲</a> <!-- 向上箭頭 -->
+        <div id="park-list"></div>
+    </div>
+    <script src="geojson_data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

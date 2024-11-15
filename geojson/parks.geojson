@@ -1,0 +1,9200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.559918,
+          25.0892376
+        ]
+      },
+      "properties": {
+        "name": "畚箕湖公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5814445,
+          25.0813703
+        ]
+      },
+      "properties": {
+        "name": "長青公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6014692,
+          25.0882882
+        ]
+      },
+      "properties": {
+        "name": "湖畔公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5105556,
+          25.1163889
+        ]
+      },
+      "properties": {
+        "name": "石牌公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5065918,
+          25.1358366
+        ]
+      },
+      "properties": {
+        "name": "天狗痷公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5481897,
+          25.1512079
+        ]
+      },
+      "properties": {
+        "name": "前山一號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5209863,
+          25.1073157
+        ]
+      },
+      "properties": {
+        "name": "明德綠地",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.507347,
+          25.0497229
+        ]
+      },
+      "properties": {
+        "name": "玉泉公園（防災公園）",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5187464,
+          25.0543556
+        ]
+      },
+      "properties": {
+        "name": "建成公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5275988,
+          25.0706543
+        ]
+      },
+      "properties": {
+        "name": "民族公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5249004,
+          25.0705092
+        ]
+      },
+      "properties": {
+        "name": "花博公園美術園區",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5675573,
+          25.0773439
+        ]
+      },
+      "properties": {
+        "name": "金泰公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.559505,
+          25.061652
+        ]
+      },
+      "properties": {
+        "name": "民權運動公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.568838,
+          25.0620475
+        ]
+      },
+      "properties": {
+        "name": "舊宗一號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5528688,
+          25.0564205
+        ]
+      },
+      "properties": {
+        "name": "精忠二號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.525772,
+          25.103558
+        ]
+      },
+      "properties": {
+        "name": "忠誠公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5342254,
+          25.1207142
+        ]
+      },
+      "properties": {
+        "name": "天和公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5479453,
+          25.0952298
+        ]
+      },
+      "properties": {
+        "name": "16號綠地",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5532296,
+          25.1021791
+        ]
+      },
+      "properties": {
+        "name": "衛理公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5699528,
+          25.1083276
+        ]
+      },
+      "properties": {
+        "name": "翠山公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5651849,
+          25.1065231
+        ]
+      },
+      "properties": {
+        "name": "41號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5283616,
+          25.0920124
+        ]
+      },
+      "properties": {
+        "name": "209號綠地",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5500447,
+          25.1494239
+        ]
+      },
+      "properties": {
+        "name": "前山三號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.588698,
+          25.048339
+        ]
+      },
+      "properties": {
+        "name": "聯成公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5931702,
+          25.0488358
+        ]
+      },
+      "properties": {
+        "name": "新勝公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.584446,
+          25.046252
+        ]
+      },
+      "properties": {
+        "name": "萬福公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5880299,
+          25.038792
+        ]
+      },
+      "properties": {
+        "name": "百福公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.603164,
+          25.0825351
+        ]
+      },
+      "properties": {
+        "name": "大湖公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5703582,
+          25.08378639999999
+        ]
+      },
+      "properties": {
+        "name": "西湖公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5823002,
+          25.05707499999999
+        ]
+      },
+      "properties": {
+        "name": "潭美公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6127538,
+          25.0668382
+        ]
+      },
+      "properties": {
+        "name": "安康公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5974029,
+          25.0834919
+        ]
+      },
+      "properties": {
+        "name": "成功公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.60355,
+          25.085315
+        ]
+      },
+      "properties": {
+        "name": "湖山9號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5645263,
+          25.079874
+        ]
+      },
+      "properties": {
+        "name": "洲子一號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6188867,
+          25.0682831
+        ]
+      },
+      "properties": {
+        "name": "樂活公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6112573,
+          25.0647287
+        ]
+      },
+      "properties": {
+        "name": "125公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.58672,
+          25.0610936
+        ]
+      },
+      "properties": {
+        "name": "明美公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5732083,
+          25.0775391
+        ]
+      },
+      "properties": {
+        "name": "大港墘公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5859029,
+          25.0771361
+        ]
+      },
+      "properties": {
+        "name": "紫陽公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5028942,
+          25.1202192
+        ]
+      },
+      "properties": {
+        "name": "八仙公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5019645,
+          25.13649909999999
+        ]
+      },
+      "properties": {
+        "name": "七虎公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.502828,
+          25.138948
+        ]
+      },
+      "properties": {
+        "name": "復興公園（防災公園）",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5243006,
+          25.1258498
+        ]
+      },
+      "properties": {
+        "name": "行義公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5464835,
+          25.1521201
+        ]
+      },
+      "properties": {
+        "name": "前山四號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.510241,
+          25.1370848
+        ]
+      },
+      "properties": {
+        "name": "北投10號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5220179,
+          25.0481838
+        ]
+      },
+      "properties": {
+        "name": "華山公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5310491,
+          25.0685604
+        ]
+      },
+      "properties": {
+        "name": "新生公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5249359,
+          25.0530858
+        ]
+      },
+      "properties": {
+        "name": "康樂公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5539958,
+          25.0773057
+        ]
+      },
+      "properties": {
+        "name": "上塔悠公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.548373,
+          25.079154
+        ]
+      },
+      "properties": {
+        "name": "明水公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5216312,
+          25.0475042
+        ]
+      },
+      "properties": {
+        "name": "行一基地",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.557828,
+          25.057423
+        ]
+      },
+      "properties": {
+        "name": "民生公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5699682,
+          25.0549707
+        ]
+      },
+      "properties": {
+        "name": "舊宗二號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5217198,
+          25.1068741
+        ]
+      },
+      "properties": {
+        "name": "克強公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5308677,
+          25.096607
+        ]
+      },
+      "properties": {
+        "name": "志成公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.528024,
+          25.099919
+        ]
+      },
+      "properties": {
+        "name": "雙溪河濱公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.537564,
+          25.098593
+        ]
+      },
+      "properties": {
+        "name": "至善公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.613051,
+          25.046895
+        ]
+      },
+      "properties": {
+        "name": "中研公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5929481,
+          25.0429074
+        ]
+      },
+      "properties": {
+        "name": "湧聲公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6152306,
+          25.0579476
+        ]
+      },
+      "properties": {
+        "name": "三重世貿公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5846389,
+          25.050195
+        ]
+      },
+      "properties": {
+        "name": "玉東公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5902148,
+          25.0511959
+        ]
+      },
+      "properties": {
+        "name": "新新公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5777598,
+          25.0753287
+        ]
+      },
+      "properties": {
+        "name": "文德3號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5923908,
+          25.0632906
+        ]
+      },
+      "properties": {
+        "name": "石潭公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5834051,
+          25.0831288
+        ]
+      },
+      "properties": {
+        "name": "碧湖公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5923903,
+          25.0662612
+        ]
+      },
+      "properties": {
+        "name": "下灣公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5978808,
+          25.06575329999999
+        ]
+      },
+      "properties": {
+        "name": "上灣公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4999203,
+          25.0362045
+        ]
+      },
+      "properties": {
+        "name": "艋舺公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4972152,
+          25.0327434
+        ]
+      },
+      "properties": {
+        "name": "和平青草園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.50353,
+          25.11844
+        ]
+      },
+      "properties": {
+        "name": "立農公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5029144,
+          25.1364364
+        ]
+      },
+      "properties": {
+        "name": "七星公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.524645,
+          25.1142
+        ]
+      },
+      "properties": {
+        "name": "榮富公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.522345,
+          25.1109796
+        ]
+      },
+      "properties": {
+        "name": "北投區榮華公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5059809,
+          25.1366197
+        ]
+      },
+      "properties": {
+        "name": "北投公園1號",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.507607,
+          25.1367233
+        ]
+      },
+      "properties": {
+        "name": "北投公園2號",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.504712,
+          25.1366313
+        ]
+      },
+      "properties": {
+        "name": "北投公園4號",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5097708,
+          25.1381507
+        ]
+      },
+      "properties": {
+        "name": "北投公園3號",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.548694,
+          25.1498094
+        ]
+      },
+      "properties": {
+        "name": "前山二號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5066606,
+          25.1217675
+        ]
+      },
+      "properties": {
+        "name": "東華公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5106528,
+          25.1365691
+        ]
+      },
+      "properties": {
+        "name": "北投公園5號",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5040742,
+          25.1307117
+        ]
+      },
+      "properties": {
+        "name": "磺港公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5041816,
+          25.1311471
+        ]
+      },
+      "properties": {
+        "name": "大豐公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5033485,
+          25.1209639
+        ]
+      },
+      "properties": {
+        "name": "華齡綠地",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5261111,
+          25.0525
+        ]
+      },
+      "properties": {
+        "name": "林森公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5150295,
+          25.0415717
+        ]
+      },
+      "properties": {
+        "name": "二二八和平公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5437088,
+          24.9955635
+        ]
+      },
+      "properties": {
+        "name": "景華公園 (防災公園)",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5375913,
+          24.9940506
+        ]
+      },
+      "properties": {
+        "name": "萬慶公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5444508,
+          25.0022773
+        ]
+      },
+      "properties": {
+        "name": "文山景美運動公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.551094,
+          25.0001488
+        ]
+      },
+      "properties": {
+        "name": "興隆公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5686827,
+          25.006417
+        ]
+      },
+      "properties": {
+        "name": "椰城公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5643798,
+          24.9860885
+        ]
+      },
+      "properties": {
+        "name": "順興公園綠地",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5666126,
+          25.0042889
+        ]
+      },
+      "properties": {
+        "name": "140高地公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5648781,
+          24.9865652
+        ]
+      },
+      "properties": {
+        "name": "文山89號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5567258,
+          25.0035071
+        ]
+      },
+      "properties": {
+        "name": "辛亥生態公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.564225,
+          25.060109
+        ]
+      },
+      "properties": {
+        "name": "富民生態公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5640239,
+          25.0387499
+        ]
+      },
+      "properties": {
+        "name": "市政周邊",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5628798,
+          25.0367502
+        ]
+      },
+      "properties": {
+        "name": "台北市市民廣場",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5660775,
+          25.0373978
+        ]
+      },
+      "properties": {
+        "name": "松壽廣場公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5732149,
+          25.0355551
+        ]
+      },
+      "properties": {
+        "name": "松德公園 (防災公園)",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5700785,
+          25.0303924
+        ]
+      },
+      "properties": {
+        "name": "中強公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5619706,
+          25.0308383
+        ]
+      },
+      "properties": {
+        "name": "眷村文化公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5579177,
+          25.02632939999999
+        ]
+      },
+      "properties": {
+        "name": "信義414號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5617444,
+          25.0269526
+        ]
+      },
+      "properties": {
+        "name": "信義415號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5408642,
+          25.0440639
+        ]
+      },
+      "properties": {
+        "name": "瑠公圳公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5298742,
+          25.1097423
+        ]
+      },
+      "properties": {
+        "name": "蘭雅公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.520253,
+          25.0858235
+        ]
+      },
+      "properties": {
+        "name": "前港公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5272661,
+          25.0908756
+        ]
+      },
+      "properties": {
+        "name": "福文公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5304787,
+          25.1257572
+        ]
+      },
+      "properties": {
+        "name": "天母公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5336328,
+          25.1224372
+        ]
+      },
+      "properties": {
+        "name": "東和公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5173836,
+          25.0972582
+        ]
+      },
+      "properties": {
+        "name": "美崙公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5290357,
+          25.0948074
+        ]
+      },
+      "properties": {
+        "name": "福林公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53431,
+          25.099233
+        ]
+      },
+      "properties": {
+        "name": "福志公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55077,
+          25.10159999999999
+        ]
+      },
+      "properties": {
+        "name": "原住民文化主題公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5575765,
+          25.1376647
+        ]
+      },
+      "properties": {
+        "name": "住六之一公一",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5573941,
+          25.1384417
+        ]
+      },
+      "properties": {
+        "name": "住六之六公二",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5130145,
+          25.09735869999999
+        ]
+      },
+      "properties": {
+        "name": "雙溪濕地公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6179194,
+          25.0402156
+        ]
+      },
+      "properties": {
+        "name": "胡適公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5814008,
+          25.0489866
+        ]
+      },
+      "properties": {
+        "name": "南港60號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6148321,
+          25.0447915
+        ]
+      },
+      "properties": {
+        "name": "中興公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.594483,
+          25.082191
+        ]
+      },
+      "properties": {
+        "name": "清白公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5781027,
+          25.0704133
+        ]
+      },
+      "properties": {
+        "name": "瑞光公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5985623,
+          25.067462
+        ]
+      },
+      "properties": {
+        "name": "寶湖公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5033978,
+          25.1256412
+        ]
+      },
+      "properties": {
+        "name": "奇岩二號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5047953,
+          25.1258315
+        ]
+      },
+      "properties": {
+        "name": "奇岩三號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5598342,
+          25.0768308
+        ]
+      },
+      "properties": {
+        "name": "下塔悠公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5248317,
+          25.0799836
+        ]
+      },
+      "properties": {
+        "name": "劍潭公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5268279,
+          25.077049
+        ]
+      },
+      "properties": {
+        "name": "北安公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5147545,
+          25.03905379999999
+        ]
+      },
+      "properties": {
+        "name": "介壽公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5200714,
+          25.0477341
+        ]
+      },
+      "properties": {
+        "name": "逸仙公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5678574,
+          25.004884
+        ]
+      },
+      "properties": {
+        "name": "芳寧公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5606022,
+          25.0031266
+        ]
+      },
+      "properties": {
+        "name": "萬芳八號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5661024,
+          25.0333949
+        ]
+      },
+      "properties": {
+        "name": "信義廣場",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5700716,
+          25.0357159
+        ]
+      },
+      "properties": {
+        "name": "信義安康公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5734342,
+          25.0493169
+        ]
+      },
+      "properties": {
+        "name": "交五公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.571332,
+          25.0493063
+        ]
+      },
+      "properties": {
+        "name": "交六公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.529852,
+          25.1022722
+        ]
+      },
+      "properties": {
+        "name": "芝山岩文化史蹟公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.507726,
+          25.082338
+        ]
+      },
+      "properties": {
+        "name": "海光公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5291642,
+          25.0913793
+        ]
+      },
+      "properties": {
+        "name": "士林官邸公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5553915,
+          25.1040485
+        ]
+      },
+      "properties": {
+        "name": "至臨綠地",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5456413,
+          25.1372418
+        ]
+      },
+      "properties": {
+        "name": "山仔後公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5457181,
+          25.1342065
+        ]
+      },
+      "properties": {
+        "name": "臺北市政府工務局公園路燈工程管理處花卉試驗中心",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5290022,
+          25.1098692
+        ]
+      },
+      "properties": {
+        "name": "蘭雅1號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.506184,
+          25.0911936
+        ]
+      },
+      "properties": {
+        "name": "社子公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5054914,
+          25.09080879999999
+        ]
+      },
+      "properties": {
+        "name": "士林131號綠地",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5077151,
+          25.0902719
+        ]
+      },
+      "properties": {
+        "name": "132綠地",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.518922,
+          25.0821412
+        ]
+      },
+      "properties": {
+        "name": "福華公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5362867,
+          25.0296587
+        ]
+      },
+      "properties": {
+        "name": "大安森林公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55484,
+          25.0160102
+        ]
+      },
+      "properties": {
+        "name": "福州山公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5574983,
+          25.0167202
+        ]
+      },
+      "properties": {
+        "name": "富陽自然生態公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5599525,
+          24.9870876
+        ]
+      },
+      "properties": {
+        "name": "木柵公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5870653,
+          24.9872718
+        ]
+      },
+      "properties": {
+        "name": "水景公園（頂端）",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5685746,
+          25.0010094
+        ]
+      },
+      "properties": {
+        "name": "萬芳四號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5631344,
+          25.0030355
+        ]
+      },
+      "properties": {
+        "name": "萬芳十一號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5880159,
+          24.9872573
+        ]
+      },
+      "properties": {
+        "name": "萬壽一號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5897731,
+          24.9867079
+        ]
+      },
+      "properties": {
+        "name": "萬壽二號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5877006,
+          24.987152
+        ]
+      },
+      "properties": {
+        "name": "萬壽三號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5773916,
+          25.0022068
+        ]
+      },
+      "properties": {
+        "name": "坡內坑公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5870649,
+          24.98602
+        ]
+      },
+      "properties": {
+        "name": "小坑一號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5805475,
+          24.9850698
+        ]
+      },
+      "properties": {
+        "name": "清溪綠地",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5455675,
+          25.0044461
+        ]
+      },
+      "properties": {
+        "name": "文山森林公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5264643,
+          25.1237329
+        ]
+      },
+      "properties": {
+        "name": "永欣綠地",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5261544,
+          25.1234526
+        ]
+      },
+      "properties": {
+        "name": "櫻花崗公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5122979,
+          25.1393086
+        ]
+      },
+      "properties": {
+        "name": "溫泉綠地",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5001666,
+          25.1355307
+        ]
+      },
+      "properties": {
+        "name": "長安擴建區",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4634831,
+          25.1177618
+        ]
+      },
+      "properties": {
+        "name": "聖景一",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4639291,
+          25.1204221
+        ]
+      },
+      "properties": {
+        "name": "聖景二公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4634517,
+          25.120291
+        ]
+      },
+      "properties": {
+        "name": "聖景三公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5021814,
+          25.1195141
+        ]
+      },
+      "properties": {
+        "name": "承仙綠地",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4947202,
+          25.1377159
+        ]
+      },
+      "properties": {
+        "name": "文化三號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4993605,
+          25.1294843
+        ]
+      },
+      "properties": {
+        "name": "中央簡易公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5919375,
+          25.0430682
+        ]
+      },
+      "properties": {
+        "name": "南港公園（防災公園）",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5848487,
+          25.0425634
+        ]
+      },
+      "properties": {
+        "name": "玉成公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5052778,
+          25.0230556
+        ]
+      },
+      "properties": {
+        "name": "青年公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.482293,
+          25.1382536
+        ]
+      },
+      "properties": {
+        "name": "桃源公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5096464,
+          25.1410945
+        ]
+      },
+      "properties": {
+        "name": "泉源48公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4636874,
+          25.119628
+        ]
+      },
+      "properties": {
+        "name": "關渡公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4636877,
+          25.123581
+        ]
+      },
+      "properties": {
+        "name": "觀海公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5391412,
+          25.0634668
+        ]
+      },
+      "properties": {
+        "name": "榮星花園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5268353,
+          25.0461209
+        ]
+      },
+      "properties": {
+        "name": "中央藝文公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5696447,
+          25.0027465
+        ]
+      },
+      "properties": {
+        "name": "萬芳七號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5615223,
+          25.0020663
+        ]
+      },
+      "properties": {
+        "name": "萬芳十號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.561484,
+          25.0017405
+        ]
+      },
+      "properties": {
+        "name": "萬芳九號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5555074,
+          25.0051307
+        ]
+      },
+      "properties": {
+        "name": "興泰公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5678611,
+          25.0406238
+        ]
+      },
+      "properties": {
+        "name": "忠信廣場(信義12號廣場)",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5608798,
+          24.9944717
+        ]
+      },
+      "properties": {
+        "name": "興家公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.567903,
+          25.061969
+        ]
+      },
+      "properties": {
+        "name": "三民公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5772031,
+          25.0315337
+        ]
+      },
+      "properties": {
+        "name": "永春崗公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5454745,
+          25.0554277
+        ]
+      },
+      "properties": {
+        "name": "松基公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.572247,
+          25.042065
+        ]
+      },
+      "properties": {
+        "name": "富台公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5457181,
+          25.1342065
+        ]
+      },
+      "properties": {
+        "name": "臺北市政府工務局公園路燈工程管理處花卉試驗中心",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5822548,
+          25.0399966
+        ]
+      },
+      "properties": {
+        "name": "廣慈公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5246836,
+          25.0470473
+        ]
+      },
+      "properties": {
+        "name": "行三基地",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5839117,
+          24.9848682
+        ]
+      },
+      "properties": {
+        "name": "清溪59",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5096518,
+          25.1416846
+        ]
+      },
+      "properties": {
+        "name": "泉源47公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5336026,
+          25.0100445
+        ]
+      },
+      "properties": {
+        "name": "永福公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5800718,
+          25.032531
+        ]
+      },
+      "properties": {
+        "name": "永春陂生態濕地公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5937136,
+          25.0451137
+        ]
+      },
+      "properties": {
+        "name": "東坡公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5816989,
+          25.0485181
+        ]
+      },
+      "properties": {
+        "name": "合樂公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6156965,
+          25.048621
+        ]
+      },
+      "properties": {
+        "name": "四分河濱公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6126237,
+          25.0554941
+        ]
+      },
+      "properties": {
+        "name": "興港公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.614685,
+          25.051109
+        ]
+      },
+      "properties": {
+        "name": "中南公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5943154,
+          25.04831099999999
+        ]
+      },
+      "properties": {
+        "name": "昆陽公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6158529,
+          25.0459165
+        ]
+      },
+      "properties": {
+        "name": "幸福公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5117573,
+          25.125794
+        ]
+      },
+      "properties": {
+        "name": "崇仰公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.510271,
+          25.126772
+        ]
+      },
+      "properties": {
+        "name": "丹鳳公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.487372,
+          25.1393807
+        ]
+      },
+      "properties": {
+        "name": "新興公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4892988,
+          25.1396163
+        ]
+      },
+      "properties": {
+        "name": "重三公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.505364,
+          25.14113799999999
+        ]
+      },
+      "properties": {
+        "name": "開明公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5102583,
+          25.1379083
+        ]
+      },
+      "properties": {
+        "name": "桂花公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.465913,
+          25.12796
+        ]
+      },
+      "properties": {
+        "name": "學園公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.531535,
+          25.1171097
+        ]
+      },
+      "properties": {
+        "name": "天福二號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.532244,
+          25.101461
+        ]
+      },
+      "properties": {
+        "name": "名山公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5229999,
+          25.1104007
+        ]
+      },
+      "properties": {
+        "name": "蘭興公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5401001,
+          25.15921209999999
+        ]
+      },
+      "properties": {
+        "name": "陽明公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5288216,
+          25.0704415
+        ]
+      },
+      "properties": {
+        "name": "圓山公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5301026,
+          25.135156
+        ]
+      },
+      "properties": {
+        "name": "天溪綠地",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5063821,
+          25.1147065
+        ]
+      },
+      "properties": {
+        "name": "建民綠地",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4778175,
+          25.1353685
+        ]
+      },
+      "properties": {
+        "name": "忠義綠地",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4885597,
+          25.1409842
+        ]
+      },
+      "properties": {
+        "name": "72號綠地",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4838392,
+          25.1410319
+        ]
+      },
+      "properties": {
+        "name": "嗄嘮別公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5148235,
+          25.1413103
+        ]
+      },
+      "properties": {
+        "name": "林泉公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5116064,
+          25.1376376
+        ]
+      },
+      "properties": {
+        "name": "地熱谷擴建區",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5232231,
+          25.1179314
+        ]
+      },
+      "properties": {
+        "name": "振興公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4891875,
+          25.1385675
+        ]
+      },
+      "properties": {
+        "name": "稻中公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5067355,
+          25.1281063
+        ]
+      },
+      "properties": {
+        "name": "公館公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6061867,
+          25.0536188
+        ]
+      },
+      "properties": {
+        "name": "瓶蓋印象公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5036963,
+          25.1270401
+        ]
+      },
+      "properties": {
+        "name": "奇岩一號公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5907835,
+          25.04397239999999
+        ]
+      },
+      "properties": {
+        "name": "後山埤公園",
+        "category": "公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5347184,
+          25.1183816
+        ]
+      },
+      "properties": {
+        "name": "天和一號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5375035,
+          25.1000734
+        ]
+      },
+      "properties": {
+        "name": "仰德一號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5392992,
+          25.1019898
+        ]
+      },
+      "properties": {
+        "name": "仰德二號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5195306,
+          25.0986255
+        ]
+      },
+      "properties": {
+        "name": "新佳公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5215115,
+          25.102705
+        ]
+      },
+      "properties": {
+        "name": "德仁公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5221,
+          25.0898603
+        ]
+      },
+      "properties": {
+        "name": "承德公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5256861,
+          25.1140282
+        ]
+      },
+      "properties": {
+        "name": "天壽公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.536869,
+          25.1009915
+        ]
+      },
+      "properties": {
+        "name": "至誠公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.520936,
+          25.105398
+        ]
+      },
+      "properties": {
+        "name": "磺溪公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5463963,
+          25.0983249
+        ]
+      },
+      "properties": {
+        "name": "至德園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5250405,
+          25.082304
+        ]
+      },
+      "properties": {
+        "name": "基河公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5104411,
+          25.0876251
+        ]
+      },
+      "properties": {
+        "name": "社正公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.511325,
+          25.0823092
+        ]
+      },
+      "properties": {
+        "name": "福順公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5456413,
+          25.1372418
+        ]
+      },
+      "properties": {
+        "name": "山仔後公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5188532,
+          25.0799972
+        ]
+      },
+      "properties": {
+        "name": "明勝公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5234695,
+          25.1054379
+        ]
+      },
+      "properties": {
+        "name": "德行公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5087653,
+          25.0579695
+        ]
+      },
+      "properties": {
+        "name": "忠和公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5103463,
+          25.0586103
+        ]
+      },
+      "properties": {
+        "name": "大稻埕公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5107318,
+          25.0509396
+        ]
+      },
+      "properties": {
+        "name": "塔城公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5132284,
+          25.0579865
+        ]
+      },
+      "properties": {
+        "name": "歸綏戲曲公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.513226,
+          25.0559562
+        ]
+      },
+      "properties": {
+        "name": "朝陽茶葉公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5126922,
+          25.0653205
+        ]
+      },
+      "properties": {
+        "name": "景化公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.515385,
+          25.064005
+        ]
+      },
+      "properties": {
+        "name": "蘭州公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5121462,
+          25.0678862
+        ]
+      },
+      "properties": {
+        "name": "大同公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5120594,
+          25.071155
+        ]
+      },
+      "properties": {
+        "name": "迪化街243巷",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.515759,
+          25.070314
+        ]
+      },
+      "properties": {
+        "name": "大龍公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.516304,
+          25.0668926
+        ]
+      },
+      "properties": {
+        "name": "樹德公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.514752,
+          25.061939
+        ]
+      },
+      "properties": {
+        "name": "德鄰公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.516843,
+          25.0597689
+        ]
+      },
+      "properties": {
+        "name": "蔣渭水紀念公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5155801,
+          25.0748197
+        ]
+      },
+      "properties": {
+        "name": "哈密公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5177725,
+          25.0711029
+        ]
+      },
+      "properties": {
+        "name": "至聖公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5099682,
+          25.0659826
+        ]
+      },
+      "properties": {
+        "name": "國順公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52841,
+          25.0241392
+        ]
+      },
+      "properties": {
+        "name": "師大公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5349486,
+          25.0395056
+        ]
+      },
+      "properties": {
+        "name": "民輝公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5353054,
+          25.0351115
+        ]
+      },
+      "properties": {
+        "name": "民榮公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5298082,
+          25.0317412
+        ]
+      },
+      "properties": {
+        "name": "永康公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.531016,
+          25.029534
+        ]
+      },
+      "properties": {
+        "name": "金華公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5427985,
+          25.042797
+        ]
+      },
+      "properties": {
+        "name": "大安公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5458298,
+          25.04241369999999
+        ]
+      },
+      "properties": {
+        "name": "瑠公公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5462229,
+          25.0366162
+        ]
+      },
+      "properties": {
+        "name": "仁愛公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.542344,
+          25.036362
+        ]
+      },
+      "properties": {
+        "name": "附中公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5449508,
+          25.035849
+        ]
+      },
+      "properties": {
+        "name": "東豐公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5427806,
+          25.0345455
+        ]
+      },
+      "properties": {
+        "name": "安祥公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5445539,
+          25.0345384
+        ]
+      },
+      "properties": {
+        "name": "和安公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5478595,
+          25.0348886
+        ]
+      },
+      "properties": {
+        "name": "德安公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5273801,
+          25.0224298
+        ]
+      },
+      "properties": {
+        "name": "古莊公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.531622,
+          25.02460779999999
+        ]
+      },
+      "properties": {
+        "name": "泰順公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5328076,
+          25.0226605
+        ]
+      },
+      "properties": {
+        "name": "辛亥一號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5326973,
+          25.0219249
+        ]
+      },
+      "properties": {
+        "name": "大學公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5291054,
+          25.0220224
+        ]
+      },
+      "properties": {
+        "name": "古風公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5313825,
+          25.018762
+        ]
+      },
+      "properties": {
+        "name": "溫州公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.545469,
+          25.030565
+        ]
+      },
+      "properties": {
+        "name": "四維公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5416488,
+          25.0304692
+        ]
+      },
+      "properties": {
+        "name": "龍圖公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5401706,
+          25.0277035
+        ]
+      },
+      "properties": {
+        "name": "新龍公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5393733,
+          25.0261363
+        ]
+      },
+      "properties": {
+        "name": "瑞安公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5425584,
+          25.02763269999999
+        ]
+      },
+      "properties": {
+        "name": "龍陣一號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5414826,
+          25.0260288
+        ]
+      },
+      "properties": {
+        "name": "龍生公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5465989,
+          25.0253877
+        ]
+      },
+      "properties": {
+        "name": "群賢公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.542559,
+          25.023517
+        ]
+      },
+      "properties": {
+        "name": "和平公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5410145,
+          25.0226614
+        ]
+      },
+      "properties": {
+        "name": "敦親公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5493622,
+          25.0320072
+        ]
+      },
+      "properties": {
+        "name": "平安公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5493051,
+          25.0296751
+        ]
+      },
+      "properties": {
+        "name": "居安公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.549337,
+          25.022615
+        ]
+      },
+      "properties": {
+        "name": "虎嘯公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5545724,
+          25.0322345
+        ]
+      },
+      "properties": {
+        "name": "通化公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5529223,
+          25.0269972
+        ]
+      },
+      "properties": {
+        "name": "法治公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5513624,
+          25.02558119999999
+        ]
+      },
+      "properties": {
+        "name": "全安公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.551977,
+          25.021624
+        ]
+      },
+      "properties": {
+        "name": "嘉興公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5557434,
+          25.0281619
+        ]
+      },
+      "properties": {
+        "name": "臨江公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5559333,
+          25.0196542
+        ]
+      },
+      "properties": {
+        "name": "黎孝公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5425188,
+          25.0292427
+        ]
+      },
+      "properties": {
+        "name": "龍陣二號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54479,
+          25.028992
+        ]
+      },
+      "properties": {
+        "name": "安東公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5457344,
+          25.0341453
+        ]
+      },
+      "properties": {
+        "name": "仁慈公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5246878,
+          25.0306663
+        ]
+      },
+      "properties": {
+        "name": "金山公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5366742,
+          25.0242599
+        ]
+      },
+      "properties": {
+        "name": "龍門公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5484412,
+          25.0264594
+        ]
+      },
+      "properties": {
+        "name": "鳳雛公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5497559,
+          25.0167921
+        ]
+      },
+      "properties": {
+        "name": "臥龍公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5513614,
+          25.0157513
+        ]
+      },
+      "properties": {
+        "name": "青峰公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5408015,
+          25.0113989
+        ]
+      },
+      "properties": {
+        "name": "公館公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5557867,
+          25.0426547
+        ]
+      },
+      "properties": {
+        "name": "延吉公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5557816,
+          25.0355941
+        ]
+      },
+      "properties": {
+        "name": "光信公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5279902,
+          25.0280458
+        ]
+      },
+      "properties": {
+        "name": "錦安公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5334977,
+          25.0443686
+        ]
+      },
+      "properties": {
+        "name": "寧馨公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5390035,
+          25.0442669
+        ]
+      },
+      "properties": {
+        "name": "昌隆公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5265898,
+          25.0329633
+        ]
+      },
+      "properties": {
+        "name": "金杭公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5432534,
+          25.0255988
+        ]
+      },
+      "properties": {
+        "name": "龍鳳公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5280735,
+          25.03190489999999
+        ]
+      },
+      "properties": {
+        "name": "麗水公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5220051,
+          25.0644457
+        ]
+      },
+      "properties": {
+        "name": "撫順公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5218582,
+          25.0616188
+        ]
+      },
+      "properties": {
+        "name": "永靜公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.521009,
+          25.059364
+        ]
+      },
+      "properties": {
+        "name": "民享公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.524502,
+          25.067315
+        ]
+      },
+      "properties": {
+        "name": "雙城公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5241792,
+          25.0639351
+        ]
+      },
+      "properties": {
+        "name": "晴光公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5246858,
+          25.0615413
+        ]
+      },
+      "properties": {
+        "name": "新興公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.525062,
+          25.058936
+        ]
+      },
+      "properties": {
+        "name": "永盛公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5240159,
+          25.0564927
+        ]
+      },
+      "properties": {
+        "name": "中安公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.529047,
+          25.050821
+        ]
+      },
+      "properties": {
+        "name": "吉林公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5312932,
+          25.0533335
+        ]
+      },
+      "properties": {
+        "name": "一江公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5326517,
+          25.0503609
+        ]
+      },
+      "properties": {
+        "name": "松江公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5314822,
+          25.0473199
+        ]
+      },
+      "properties": {
+        "name": "興亞公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5345721,
+          25.0531351
+        ]
+      },
+      "properties": {
+        "name": "四平公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5347431,
+          25.0501552
+        ]
+      },
+      "properties": {
+        "name": "伊通公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53879,
+          25.055489
+        ]
+      },
+      "properties": {
+        "name": "朱昌公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5397759,
+          25.0531149
+        ]
+      },
+      "properties": {
+        "name": "復華公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.538189,
+          25.047076
+        ]
+      },
+      "properties": {
+        "name": "建興公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5417212,
+          25.0557858
+        ]
+      },
+      "properties": {
+        "name": "興安公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.542246,
+          25.053653
+        ]
+      },
+      "properties": {
+        "name": "遼寧公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5412337,
+          25.0530568
+        ]
+      },
+      "properties": {
+        "name": "興國公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5415052,
+          25.0493667
+        ]
+      },
+      "properties": {
+        "name": "朱崙公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5411223,
+          25.0475671
+        ]
+      },
+      "properties": {
+        "name": "朱厝崙公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.529596,
+          25.0671235
+        ]
+      },
+      "properties": {
+        "name": "新祿公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5317535,
+          25.0674458
+        ]
+      },
+      "properties": {
+        "name": "德惠公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.532232,
+          25.06539
+        ]
+      },
+      "properties": {
+        "name": "新喜公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5299529,
+          25.0633925
+        ]
+      },
+      "properties": {
+        "name": "新壽公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5291667,
+          25.0605556
+        ]
+      },
+      "properties": {
+        "name": "錦州公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5272907,
+          25.0605325
+        ]
+      },
+      "properties": {
+        "name": "聚葉公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5324488,
+          25.0602557
+        ]
+      },
+      "properties": {
+        "name": "松錦一號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5321069,
+          25.05961989999999
+        ]
+      },
+      "properties": {
+        "name": "松錦2號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5319135,
+          25.0564307
+        ]
+      },
+      "properties": {
+        "name": "中吉公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5286553,
+          25.05586229999999
+        ]
+      },
+      "properties": {
+        "name": "中原公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5290608,
+          25.0531587
+        ]
+      },
+      "properties": {
+        "name": "仁德公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53943,
+          25.061274
+        ]
+      },
+      "properties": {
+        "name": "江寧公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.542172,
+          25.059886
+        ]
+      },
+      "properties": {
+        "name": "龍江公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.539567,
+          25.058682
+        ]
+      },
+      "properties": {
+        "name": "合江公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5478547,
+          25.0811917
+        ]
+      },
+      "properties": {
+        "name": "直安公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5453821,
+          25.0791765
+        ]
+      },
+      "properties": {
+        "name": "永安公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.521552,
+          25.06491939999999
+        ]
+      },
+      "properties": {
+        "name": "集英公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5286538,
+          25.0480338
+        ]
+      },
+      "properties": {
+        "name": "Zhengshou Park",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.535235,
+          25.06528
+        ]
+      },
+      "properties": {
+        "name": "農安公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5423501,
+          25.0670061
+        ]
+      },
+      "properties": {
+        "name": "下埤公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5560566,
+          25.0857243
+        ]
+      },
+      "properties": {
+        "name": "敬業公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5473178,
+          25.0828314
+        ]
+      },
+      "properties": {
+        "name": "大直公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5358606,
+          25.0603997
+        ]
+      },
+      "properties": {
+        "name": "錦北公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5449791,
+          25.0821311
+        ]
+      },
+      "properties": {
+        "name": "培英公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5505556,
+          25.0813889
+        ]
+      },
+      "properties": {
+        "name": "永直公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.537293,
+          25.045917
+        ]
+      },
+      "properties": {
+        "name": "進安公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.547615,
+          25.086324
+        ]
+      },
+      "properties": {
+        "name": "自強公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5365564,
+          25.0854173
+        ]
+      },
+      "properties": {
+        "name": "力行三號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5382079,
+          25.072676
+        ]
+      },
+      "properties": {
+        "name": "大佳社區公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5559792,
+          25.0804097
+        ]
+      },
+      "properties": {
+        "name": "中山427公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5534906,
+          25.0784625
+        ]
+      },
+      "properties": {
+        "name": "中428公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5558819,
+          25.0784529
+        ]
+      },
+      "properties": {
+        "name": "中429公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5621352,
+          25.0783191
+        ]
+      },
+      "properties": {
+        "name": "中430公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5652748,
+          25.0774453
+        ]
+      },
+      "properties": {
+        "name": "中431公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5186999,
+          25.0231754
+        ]
+      },
+      "properties": {
+        "name": "牯嶺公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5282084,
+          25.0417783
+        ]
+      },
+      "properties": {
+        "name": "齊東公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5320596,
+          25.0420005
+        ]
+      },
+      "properties": {
+        "name": "忠孝公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.530845,
+          25.0391449
+        ]
+      },
+      "properties": {
+        "name": "文光公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5287438,
+          25.0348978
+        ]
+      },
+      "properties": {
+        "name": "信愛公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5319366,
+          25.0351925
+        ]
+      },
+      "properties": {
+        "name": "連雲公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5155445,
+          25.0441945
+        ]
+      },
+      "properties": {
+        "name": "黎明公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5203177,
+          25.0270313
+        ]
+      },
+      "properties": {
+        "name": "南昌公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5321327,
+          25.0162669
+        ]
+      },
+      "properties": {
+        "name": "文盛公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.517279,
+          25.026749
+        ]
+      },
+      "properties": {
+        "name": "螢橋公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5614294,
+          25.0885525
+        ]
+      },
+      "properties": {
+        "name": "九華公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5609889,
+          25.0874192
+        ]
+      },
+      "properties": {
+        "name": "文湖公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5674152,
+          25.0875466
+        ]
+      },
+      "properties": {
+        "name": "西安公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5644339,
+          25.0831329
+        ]
+      },
+      "properties": {
+        "name": "西康公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5746791,
+          25.0842748
+        ]
+      },
+      "properties": {
+        "name": "港華六號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5752869,
+          25.082756
+        ]
+      },
+      "properties": {
+        "name": "港都公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5763333,
+          25.0808639
+        ]
+      },
+      "properties": {
+        "name": "港墘公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5796554,
+          25.0844409
+        ]
+      },
+      "properties": {
+        "name": "Shanjiao Park",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5793686,
+          25.0774002
+        ]
+      },
+      "properties": {
+        "name": "瑞陽公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5837435,
+          25.0769628
+        ]
+      },
+      "properties": {
+        "name": "文德二號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5879604,
+          25.0879734
+        ]
+      },
+      "properties": {
+        "name": "金瑞公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.591992,
+          25.08691899999999
+        ]
+      },
+      "properties": {
+        "name": "碧山公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.596605,
+          25.0798161
+        ]
+      },
+      "properties": {
+        "name": "福壽公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5992663,
+          25.0863519
+        ]
+      },
+      "properties": {
+        "name": "煙波庭公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5786483,
+          25.054123
+        ]
+      },
+      "properties": {
+        "name": "新明公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5871674,
+          25.0682905
+        ]
+      },
+      "properties": {
+        "name": "湖元公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5918063,
+          25.0698036
+        ]
+      },
+      "properties": {
+        "name": "湖聖公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5995024,
+          25.0666232
+        ]
+      },
+      "properties": {
+        "name": "湖寶公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.611134,
+          25.0691908
+        ]
+      },
+      "properties": {
+        "name": "南湖1號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.60973,
+          25.06902
+        ]
+      },
+      "properties": {
+        "name": "康寧公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.615029,
+          25.067281
+        ]
+      },
+      "properties": {
+        "name": "五分公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.612143,
+          25.075579
+        ]
+      },
+      "properties": {
+        "name": "東湖一號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.610853,
+          25.073781
+        ]
+      },
+      "properties": {
+        "name": "東湖二號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6185893,
+          25.0739676
+        ]
+      },
+      "properties": {
+        "name": "安泰公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6156967,
+          25.0704722
+        ]
+      },
+      "properties": {
+        "name": "安湖三號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.618055,
+          25.0705067
+        ]
+      },
+      "properties": {
+        "name": "東湖四號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6206956,
+          25.0700601
+        ]
+      },
+      "properties": {
+        "name": "樂康公園（五號公園）",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.589341,
+          25.066752
+        ]
+      },
+      "properties": {
+        "name": "湖興公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6127484,
+          25.0674408
+        ]
+      },
+      "properties": {
+        "name": "安康公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6153646,
+          25.07404529999999
+        ]
+      },
+      "properties": {
+        "name": "安湖公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5683201,
+          25.0852474
+        ]
+      },
+      "properties": {
+        "name": "仙樹公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5908233,
+          25.08541739999999
+        ]
+      },
+      "properties": {
+        "name": "金龍公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6021148,
+          25.0865258
+        ]
+      },
+      "properties": {
+        "name": "翠湖公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5797625,
+          25.0667112
+        ]
+      },
+      "properties": {
+        "name": "扶輪親恩公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5866906,
+          25.0767091
+        ]
+      },
+      "properties": {
+        "name": "陽光公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5735244,
+          25.0877772
+        ]
+      },
+      "properties": {
+        "name": "港華一號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5738405,
+          25.0877075
+        ]
+      },
+      "properties": {
+        "name": "港華二號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5752099,
+          25.0867894
+        ]
+      },
+      "properties": {
+        "name": "港華三號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5752688,
+          25.08654629999999
+        ]
+      },
+      "properties": {
+        "name": "港華四號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6043663,
+          25.0872706
+        ]
+      },
+      "properties": {
+        "name": "湖山三號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.600745,
+          25.08271299999999
+        ]
+      },
+      "properties": {
+        "name": "湖山四號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6009493,
+          25.081558
+        ]
+      },
+      "properties": {
+        "name": "湖山五號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6019904,
+          25.0830998
+        ]
+      },
+      "properties": {
+        "name": "湖山六號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6033139,
+          25.0839497
+        ]
+      },
+      "properties": {
+        "name": "湖山八號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5614176,
+          25.0840055
+        ]
+      },
+      "properties": {
+        "name": "北勢湖公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5686528,
+          25.0795655
+        ]
+      },
+      "properties": {
+        "name": "洲子二號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.576627,
+          25.069086
+        ]
+      },
+      "properties": {
+        "name": "瑞湖公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5972794,
+          25.0645816
+        ]
+      },
+      "properties": {
+        "name": "游美公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.600504,
+          25.0733833
+        ]
+      },
+      "properties": {
+        "name": "麗湖綠地",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5987172,
+          25.069071
+        ]
+      },
+      "properties": {
+        "name": "大坑公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6087876,
+          25.0753824
+        ]
+      },
+      "properties": {
+        "name": "康湖公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5755197,
+          25.0546392
+        ]
+      },
+      "properties": {
+        "name": "環東公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.575673,
+          25.0532187
+        ]
+      },
+      "properties": {
+        "name": "行善公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.578603,
+          25.0570662
+        ]
+      },
+      "properties": {
+        "name": "美善公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5842627,
+          25.0653282
+        ]
+      },
+      "properties": {
+        "name": "文心公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5876225,
+          25.081543
+        ]
+      },
+      "properties": {
+        "name": "湖濱公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6002383,
+          25.0732612
+        ]
+      },
+      "properties": {
+        "name": "麗湖公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6087998,
+          25.0740538
+        ]
+      },
+      "properties": {
+        "name": "康湖二號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5639371,
+          25.0849698
+        ]
+      },
+      "properties": {
+        "name": "西康二號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.558015,
+          24.98233099999999
+        ]
+      },
+      "properties": {
+        "name": "木新公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5593813,
+          24.9827325
+        ]
+      },
+      "properties": {
+        "name": "樟樹公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5591123,
+          24.9845282
+        ]
+      },
+      "properties": {
+        "name": "樟林公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5610536,
+          24.9832135
+        ]
+      },
+      "properties": {
+        "name": "忠順公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5687763,
+          24.9846346
+        ]
+      },
+      "properties": {
+        "name": "木榮公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5473099,
+          24.9876708
+        ]
+      },
+      "properties": {
+        "name": "試院公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5505155,
+          24.9891805
+        ]
+      },
+      "properties": {
+        "name": "華興公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5708041,
+          24.9866448
+        ]
+      },
+      "properties": {
+        "name": "木南公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.56343,
+          24.983675
+        ]
+      },
+      "properties": {
+        "name": "保儀公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5645949,
+          24.9893567
+        ]
+      },
+      "properties": {
+        "name": "久康公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5542156,
+          24.9806003
+        ]
+      },
+      "properties": {
+        "name": "樟興公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5734334,
+          25.0003559
+        ]
+      },
+      "properties": {
+        "name": "博嘉公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.571328,
+          24.99741
+        ]
+      },
+      "properties": {
+        "name": "原野運動公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.563623,
+          25.0014766
+        ]
+      },
+      "properties": {
+        "name": "萬芳十二號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.565506,
+          25.0013364
+        ]
+      },
+      "properties": {
+        "name": "萬芳十三號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5653773,
+          25.0003686
+        ]
+      },
+      "properties": {
+        "name": "萬芳十四號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5665541,
+          24.9998912
+        ]
+      },
+      "properties": {
+        "name": "萬芳一號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5668388,
+          24.9991544
+        ]
+      },
+      "properties": {
+        "name": "萬芳二號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5670497,
+          24.9991742
+        ]
+      },
+      "properties": {
+        "name": "萬芳三號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.569288,
+          24.9995155
+        ]
+      },
+      "properties": {
+        "name": "萬芳六號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5547376,
+          24.9864809
+        ]
+      },
+      "properties": {
+        "name": "光明公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5729641,
+          24.9907931
+        ]
+      },
+      "properties": {
+        "name": "萬興櫻花生態公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5700906,
+          24.9833318
+        ]
+      },
+      "properties": {
+        "name": "新榮公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5675901,
+          24.9826088
+        ]
+      },
+      "properties": {
+        "name": "恆光公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5568475,
+          24.9791378
+        ]
+      },
+      "properties": {
+        "name": "樟新公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5609631,
+          24.9881868
+        ]
+      },
+      "properties": {
+        "name": "明義公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5429866,
+          24.9925555
+        ]
+      },
+      "properties": {
+        "name": "景行公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5403426,
+          24.9957119
+        ]
+      },
+      "properties": {
+        "name": "景福公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5401461,
+          24.996704
+        ]
+      },
+      "properties": {
+        "name": "景仁公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5363313,
+          25.000512
+        ]
+      },
+      "properties": {
+        "name": "萬和一號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5365543,
+          25.0014958
+        ]
+      },
+      "properties": {
+        "name": "萬和二號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5365543,
+          25.002822
+        ]
+      },
+      "properties": {
+        "name": "萬和三號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5362752,
+          25.005935
+        ]
+      },
+      "properties": {
+        "name": "萬年一號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5359299,
+          25.0049336
+        ]
+      },
+      "properties": {
+        "name": "萬年二號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5367454,
+          25.0068127
+        ]
+      },
+      "properties": {
+        "name": "萬年三號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5419109,
+          25.0006842
+        ]
+      },
+      "properties": {
+        "name": "萬有二號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5433681,
+          24.9989248
+        ]
+      },
+      "properties": {
+        "name": "萬有三號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.542961,
+          24.9998266
+        ]
+      },
+      "properties": {
+        "name": "萬有一號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5451177,
+          25.0001456
+        ]
+      },
+      "properties": {
+        "name": "景豐公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5460393,
+          24.9971454
+        ]
+      },
+      "properties": {
+        "name": "興福公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.549685,
+          24.998029
+        ]
+      },
+      "properties": {
+        "name": "仙岩公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5474874,
+          25.0001844
+        ]
+      },
+      "properties": {
+        "name": "興豐公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55084,
+          25.006056
+        ]
+      },
+      "properties": {
+        "name": "興旺公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5059855,
+          25.0461246
+        ]
+      },
+      "properties": {
+        "name": "福興公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5187431,
+          25.1152614
+        ]
+      },
+      "properties": {
+        "name": "振華公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5142909,
+          25.1145875
+        ]
+      },
+      "properties": {
+        "name": "榮光公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.508258,
+          25.119038
+        ]
+      },
+      "properties": {
+        "name": "吉利公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4968197,
+          25.1364044
+        ]
+      },
+      "properties": {
+        "name": "文化一、二公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4666583,
+          25.1197
+        ]
+      },
+      "properties": {
+        "name": "知行公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5011712,
+          25.13797539999999
+        ]
+      },
+      "properties": {
+        "name": "中庸公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5001621,
+          25.1354668
+        ]
+      },
+      "properties": {
+        "name": "長安公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5024681,
+          25.124012
+        ]
+      },
+      "properties": {
+        "name": "清江一公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5089927,
+          25.1210808
+        ]
+      },
+      "properties": {
+        "name": "健行公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52937,
+          25.125147
+        ]
+      },
+      "properties": {
+        "name": "同德公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5148214,
+          25.1111376
+        ]
+      },
+      "properties": {
+        "name": "致遠公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5203166,
+          25.1056767
+        ]
+      },
+      "properties": {
+        "name": "建民公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4967959,
+          25.1359691
+        ]
+      },
+      "properties": {
+        "name": "豐年公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.50185,
+          25.12383699999999
+        ]
+      },
+      "properties": {
+        "name": "清江二公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4885683,
+          25.1409741
+        ]
+      },
+      "properties": {
+        "name": "稻香公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5613815,
+          25.0472612
+        ]
+      },
+      "properties": {
+        "name": "復盛公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.567139,
+          25.064755
+        ]
+      },
+      "properties": {
+        "name": "撫遠公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5511551,
+          25.0612259
+        ]
+      },
+      "properties": {
+        "name": "敦北公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5520702,
+          25.0593497
+        ]
+      },
+      "properties": {
+        "name": "精忠公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5536289,
+          25.0589346
+        ]
+      },
+      "properties": {
+        "name": "富錦五號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5530115,
+          25.0582519
+        ]
+      },
+      "properties": {
+        "name": "富錦六號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55293,
+          25.0573541
+        ]
+      },
+      "properties": {
+        "name": "延壽二號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.551824,
+          25.056836
+        ]
+      },
+      "properties": {
+        "name": "延壽三號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5464557,
+          25.0532904
+        ]
+      },
+      "properties": {
+        "name": "慶城公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.556348,
+          25.0576567
+        ]
+      },
+      "properties": {
+        "name": "延壽一號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5589336,
+          25.0602669
+        ]
+      },
+      "properties": {
+        "name": "富錦三號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5606983,
+          25.0605983
+        ]
+      },
+      "properties": {
+        "name": "新中公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5596032,
+          25.059641
+        ]
+      },
+      "properties": {
+        "name": "富錦二號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5590362,
+          25.0589066
+        ]
+      },
+      "properties": {
+        "name": "富錦一號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.559978,
+          25.0547647
+        ]
+      },
+      "properties": {
+        "name": "婦聯公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.552488,
+          25.053516
+        ]
+      },
+      "properties": {
+        "name": "中華公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.558847,
+          25.053441
+        ]
+      },
+      "properties": {
+        "name": "長壽公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5683554,
+          25.0588014
+        ]
+      },
+      "properties": {
+        "name": "新東公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.568715,
+          25.054141
+        ]
+      },
+      "properties": {
+        "name": "健康公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.564027,
+          25.053877
+        ]
+      },
+      "properties": {
+        "name": "西松公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.567675,
+          25.052158
+        ]
+      },
+      "properties": {
+        "name": "寶清公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5458755,
+          25.0499878
+        ]
+      },
+      "properties": {
+        "name": "敦中公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5459443,
+          25.0469816
+        ]
+      },
+      "properties": {
+        "name": "八德公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.554932,
+          25.050428
+        ]
+      },
+      "properties": {
+        "name": "寧安公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.553517,
+          25.049968
+        ]
+      },
+      "properties": {
+        "name": "美仁1號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5534508,
+          25.0495511
+        ]
+      },
+      "properties": {
+        "name": "美仁二號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5535912,
+          25.0479756
+        ]
+      },
+      "properties": {
+        "name": "吉仁公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5544505,
+          25.0465154
+        ]
+      },
+      "properties": {
+        "name": "復源公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5640258,
+          25.0505572
+        ]
+      },
+      "properties": {
+        "name": "吉祥公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5477096,
+          25.0608406
+        ]
+      },
+      "properties": {
+        "name": "民有一號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5463638,
+          25.0596924
+        ]
+      },
+      "properties": {
+        "name": "民有二號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5476602,
+          25.0586589
+        ]
+      },
+      "properties": {
+        "name": "民有三號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5686889,
+          25.0554531
+        ]
+      },
+      "properties": {
+        "name": "鵩程公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5644445,
+          25.0530195
+        ]
+      },
+      "properties": {
+        "name": "安平公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.559376,
+          25.03418100000001
+        ]
+      },
+      "properties": {
+        "name": "中興公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.567151,
+          25.0438
+        ]
+      },
+      "properties": {
+        "name": "革新公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5749756,
+          25.04358969999999
+        ]
+      },
+      "properties": {
+        "name": "永吉公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5789852,
+          25.03926079999999
+        ]
+      },
+      "properties": {
+        "name": "林口公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5807715,
+          25.0424804
+        ]
+      },
+      "properties": {
+        "name": "春光公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5839323,
+          25.0384245
+        ]
+      },
+      "properties": {
+        "name": "福德公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5594098,
+          25.0190746
+        ]
+      },
+      "properties": {
+        "name": "黎忠公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5596562,
+          25.0286341
+        ]
+      },
+      "properties": {
+        "name": "三興公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5718589,
+          25.0474944
+        ]
+      },
+      "properties": {
+        "name": "雅祥公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.556669,
+          25.021
+        ]
+      },
+      "properties": {
+        "name": "黎富公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.574513,
+          25.047799
+        ]
+      },
+      "properties": {
+        "name": "五常公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.570557,
+          25.0460557
+        ]
+      },
+      "properties": {
+        "name": "福祥公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5700906,
+          25.0280827
+        ]
+      },
+      "properties": {
+        "name": "三犁公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5679964,
+          25.0234159
+        ]
+      },
+      "properties": {
+        "name": "吳興公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5708333,
+          25.0191667
+        ]
+      },
+      "properties": {
+        "name": "泰和公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.573753,
+          25.037735
+        ]
+      },
+      "properties": {
+        "name": "念儒公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5667323,
+          25.0307104
+        ]
+      },
+      "properties": {
+        "name": "三張里公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5640387,
+          25.0298923
+        ]
+      },
+      "properties": {
+        "name": "景平公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5718539,
+          25.0185696
+        ]
+      },
+      "properties": {
+        "name": "糶米公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6068283,
+          25.0540606
+        ]
+      },
+      "properties": {
+        "name": "南興公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6036157,
+          25.0548443
+        ]
+      },
+      "properties": {
+        "name": "東明公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6216583,
+          25.0398903
+        ]
+      },
+      "properties": {
+        "name": "理想公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6169892,
+          25.0529928
+        ]
+      },
+      "properties": {
+        "name": "新富公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5980076,
+          25.0578519
+        ]
+      },
+      "properties": {
+        "name": "東陽公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5811014,
+          25.04519029999999
+        ]
+      },
+      "properties": {
+        "name": "合成公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4999533,
+          25.041582
+        ]
+      },
+      "properties": {
+        "name": "長沙公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4986841,
+          25.0386247
+        ]
+      },
+      "properties": {
+        "name": "華西公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4993552,
+          25.0336658
+        ]
+      },
+      "properties": {
+        "name": "寺前公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5027492,
+          25.0384451
+        ]
+      },
+      "properties": {
+        "name": "老松公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4968663,
+          25.0387239
+        ]
+      },
+      "properties": {
+        "name": "桂林公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4952345,
+          25.0209828
+        ]
+      },
+      "properties": {
+        "name": "東園公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.497882,
+          25.026829
+        ]
+      },
+      "properties": {
+        "name": "西園公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4936461,
+          25.03415979999999
+        ]
+      },
+      "properties": {
+        "name": "大理公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4929099,
+          25.0332109
+        ]
+      },
+      "properties": {
+        "name": "綠堤公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4934244,
+          25.0350152
+        ]
+      },
+      "properties": {
+        "name": "華江7號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4927172,
+          25.0340594
+        ]
+      },
+      "properties": {
+        "name": "華江八號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4934507,
+          25.0357489
+        ]
+      },
+      "properties": {
+        "name": "華江一號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4944896,
+          25.0358393
+        ]
+      },
+      "properties": {
+        "name": "華江二號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4946419,
+          25.0348949
+        ]
+      },
+      "properties": {
+        "name": "聚德公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.494674,
+          25.034436
+        ]
+      },
+      "properties": {
+        "name": "糖廍公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4954397,
+          25.0372684
+        ]
+      },
+      "properties": {
+        "name": "柳鄉公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4891908,
+          25.0318044
+        ]
+      },
+      "properties": {
+        "name": "長順公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5059781,
+          25.046122
+        ]
+      },
+      "properties": {
+        "name": "福星公園（萬華）",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.494619,
+          25.033564
+        ]
+      },
+      "properties": {
+        "name": "糖廍文化史蹟公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4983375,
+          25.0395008
+        ]
+      },
+      "properties": {
+        "name": "青山公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4924783,
+          25.0234574
+        ]
+      },
+      "properties": {
+        "name": "錦德公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4942581,
+          25.0241174
+        ]
+      },
+      "properties": {
+        "name": "孝德公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5011418,
+          25.0244304
+        ]
+      },
+      "properties": {
+        "name": "壽德公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4973706,
+          25.0227364
+        ]
+      },
+      "properties": {
+        "name": "保德公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5753705,
+          25.0366894
+        ]
+      },
+      "properties": {
+        "name": "安強公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.574956,
+          25.038507
+        ]
+      },
+      "properties": {
+        "name": "中全公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5558333,
+          24.9861111
+        ]
+      },
+      "properties": {
+        "name": "光輝公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5698107,
+          25.0421366
+        ]
+      },
+      "properties": {
+        "name": "富生2號公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5792027,
+          25.0423012
+        ]
+      },
+      "properties": {
+        "name": "永春公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.599114,
+          25.05618
+        ]
+      },
+      "properties": {
+        "name": "重陽公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5538857,
+          25.0345417
+        ]
+      },
+      "properties": {
+        "name": "敦安公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.509907,
+          25.026291
+        ]
+      },
+      "properties": {
+        "name": "永昌公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.604777,
+          25.05671199999999
+        ]
+      },
+      "properties": {
+        "name": "興華公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5505556,
+          25.0463889
+        ]
+      },
+      "properties": {
+        "name": "敦化公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6061867,
+          25.0536188
+        ]
+      },
+      "properties": {
+        "name": "瓶蓋印象公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6154419,
+          25.0627116
+        ]
+      },
+      "properties": {
+        "name": "港後公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6037369,
+          25.057415
+        ]
+      },
+      "properties": {
+        "name": "興南公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6164547,
+          25.0461106
+        ]
+      },
+      "properties": {
+        "name": "幸福公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.616502,
+          25.047323
+        ]
+      },
+      "properties": {
+        "name": "六福公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.617885,
+          25.045022
+        ]
+      },
+      "properties": {
+        "name": "福山公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5841427,
+          25.0502752
+        ]
+      },
+      "properties": {
+        "name": "玉東公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5188604,
+          25.087862
+        ]
+      },
+      "properties": {
+        "name": "福中公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.576203,
+          25.033943
+        ]
+      },
+      "properties": {
+        "name": "松友公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.560318,
+          25.024458
+        ]
+      },
+      "properties": {
+        "name": "黎雙公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4963551,
+          25.0263785
+        ]
+      },
+      "properties": {
+        "name": "日善公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.62088,
+          25.041057
+        ]
+      },
+      "properties": {
+        "name": "舊莊公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6162762,
+          25.0625904
+        ]
+      },
+      "properties": {
+        "name": "經貿公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5221354,
+          25.0960598
+        ]
+      },
+      "properties": {
+        "name": "華聲公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5144292,
+          25.0932404
+        ]
+      },
+      "properties": {
+        "name": "後港公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5411037,
+          25.005151
+        ]
+      },
+      "properties": {
+        "name": "萬盛公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5752629,
+          25.0467515
+        ]
+      },
+      "properties": {
+        "name": "四育公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5801871,
+          25.0470574
+        ]
+      },
+      "properties": {
+        "name": "五分埔公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.574693,
+          25.031105
+        ]
+      },
+      "properties": {
+        "name": "虎林公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5643527,
+          25.02502309999999
+        ]
+      },
+      "properties": {
+        "name": "惠安公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5410145,
+          25.0425539
+        ]
+      },
+      "properties": {
+        "name": "誠安公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5525499,
+          25.1012354
+        ]
+      },
+      "properties": {
+        "name": "外雙溪公園",
+        "category": "鄰里公園",
+        "status": "無災情"
+      }
+    }
+  ]
+}

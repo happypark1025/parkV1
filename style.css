@@ -1,0 +1,102 @@
+html {
+    scroll-behavior: smooth;
+}
+
+/* 設定頁面和容器的樣式 */
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 1%; /* 保留5%的邊界留白 */
+    overflow: hidden;
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+#page1, #page2 {
+    height: 99vh; /* 每頁高度為視窗高度的90%，考慮到5%的邊界留白 */
+    display: flex;
+    flex-direction: row;
+}
+
+#page1 {
+    overflow: hidden;
+}
+
+#page2 {
+    flex-direction: column;
+    overflow-y: auto;
+}
+
+/* 設定地圖和圖表的樣式 */
+#charts {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+#park-chart, #neighborhood-park-chart {
+    width: 100%;
+    margin: 10px 0;
+}
+
+#map {
+    flex: 2;
+    height: 100%;
+    width: 100%;
+}
+
+#park-list {
+    flex: 1;
+    padding: 20px;
+    overflow-y: auto;
+}
+
+/* 響應式設計 */
+@media (max-width: 768px) {
+    #page1 {
+        flex-direction: column;
+    }
+
+    #charts {
+        height: 33.33vh; /* 在小屏幕上，圖表佔1/3高度 */
+        width: 100%;
+    }
+
+    #map {
+        height: 66.67vh; /* 在小屏幕上，地圖佔2/3高度 */
+        width: 100%;
+    }
+}
+
+/* 設定箭頭圖示的樣式 */
+.scroll-arrow {
+    position: fixed;
+    bottom: 5%; /* 距離底部5% */
+    right: 5%;  /* 距離右側5% */
+    font-size: 1em;
+    color: white;
+    text-decoration: none;
+    background-color: #007bff;
+    border: none;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    transition: background-color 0.3s;
+}
+
+.scroll-arrow:hover {
+    background-color: #0056b3;
+}
+
+.scroll-arrow.up-arrow {
+    bottom: 10%; /* 確保上下箭頭不重疊 */
+}
